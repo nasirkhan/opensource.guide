@@ -3,7 +3,7 @@ nav:
   contribute: অবদান রাখুন
 
 index:
-  lead: ওপেন সোর্স সফটওয়্যার ঠিক আপনার মত মানুষের দ্বারা তৈরি করা হয়। আপনার প্রকল্প আরম্ভ করা এবং সেটি বিস্তৃত করা সম্পর্কে জানুন।
+  lead: ওপেন সোর্স সফটওয়্যার ঠিক আপনার মত মানুষের দ্বারা তৈরী। আপনার প্রকল্প আরম্ভ করা এবং সেটি বিস্তৃত করা সম্পর্কে জানুন।
   opensourcefriday: আজ ছুটির দিন! আপনি ব্যবহার করেন এবং আপনার পছন্দের সফটওয়্যারের মান উন্নয়নের জন্য কিছু সময় অতিবাহিত করুন
 
 article:
@@ -21,7 +21,7 @@ footer:
     button: গ্রাহক হোন
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] with [love] by [github] and [friends]"
+    format: "[code] with [love] by [github] এবং [friends]"
     # Label for code octicon
     code_label: কোড
     # Label for love octicon
