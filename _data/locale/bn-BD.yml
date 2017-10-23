@@ -1,0 +1,30 @@
+nav:
+  about: পরিচিতি
+  contribute: অবদান রাখুন
+
+index:
+  lead: ওপেন সোর্স সফটওয়্যার ঠিক আপনার মত মানুষের দ্বারা তৈরি করা হয়। আপনার প্রকল্প আরম্ভ করা এবং সেটি বিস্তৃত করা সম্পর্কে জানুন।
+  opensourcefriday: আজ ছুটির দিন! আপনি ব্যবহার করেন এবং আপনার পছন্দের সফটওয়্যারের মান উন্নয়নের জন্য কিছু সময় অতিবাহিত করুন
+
+article:
+  table_of_contents: সূচিপত্র
+
+footer:
+  contribute:
+    heading: অবদান রাখুন
+    description: Want to make a suggestion? This content is open source. Help us improve it.
+    button: অবদান রাখুন
+  subscribe:
+    heading: যোগাযোগ রাখুন
+    description: Be the first to hear about GitHub's latest open source tips and resources.
+    label: ইমেইল ঠিকানা
+    button: গ্রাহক হোন
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] with [love] by [github] and [friends]"
+    # Label for code octicon
+    code_label: কোড
+    # Label for love octicon
+    love_label: love
+    # Label for the contributors link
+    friends_label: বন্ধুরা
