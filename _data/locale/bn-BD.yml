@@ -12,19 +12,19 @@ article:
 footer:
   contribute:
     heading: অবদান রাখুন
-    description: Want to make a suggestion? This content is open source. Help us improve it.
+    description: মতামত জানাতে চান? এই সকল তথ্য মু্ক্ত সোর্স। মান উন্নয়নে আমাদের সহায়তা করুন।
     button: অবদান রাখুন
   subscribe:
     heading: যোগাযোগ রাখুন
-    description: Be the first to hear about GitHub's latest open source tips and resources.
+    description: মুক্ত সোর্স সম্পর্কিত গিটহাবের সর্বশেষ টিপস্‌গুলো সবার আগে জানুন
     label: ইমেইল ঠিকানা
     button: গ্রাহক হোন
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] with [love] by [github] এবং [friends]"
+    format: "[github] এবং [friends] [love] [code]"
     # Label for code octicon
     code_label: কোড
     # Label for love octicon
-    love_label: love
+    love_label: ভালোবাসা
     # Label for the contributors link
-    friends_label: বন্ধুরা
+    friends_label: বন্ধুদের
