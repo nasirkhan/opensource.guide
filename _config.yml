@@ -1,11 +1,11 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "মু্ক্ত সোর্স সহায়িকা"
+description: "আপনার প্রকল্প আরম্ভ থেকে শুরু এবং সেটি বিস্তৃত করা সম্পর্কে জানুন।"
 
 # See: docs/translations.md
-locale: en-US
+locale: bn-BD
 translations:
-  en-US:
-    name: English (US)
+  bn-BD:
+    name: Bengali (BD)
     url: https://opensource.guide
 
 exclude:
