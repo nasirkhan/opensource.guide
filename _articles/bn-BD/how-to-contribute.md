@@ -1,15 +1,15 @@
 ---
-locale: en-US
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+locale: bn-BD
+title: মুক্ত সোর্স প্রকল্পে অবদান রাখুন
+description: মুক্ত সোর্সে অবদান রাখতে চান? প্রথম অবদানকারী এবং অভিজ্ঞদের জন্য মুক্ত সোর্সে অবদানের সহায়িকা।
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "মুক্ত সোর্সে কেনো অবদান রাখবেন?"
+  what-it-means-to-contribute: "অবদান রাখা আসলে কি"
+  orienting-yourself-to-a-new-project: "নতুন প্রকল্পের সাথে পরিচিত হওয়া"
+  finding-a-project-to-contribute-to: "অবদান রাখার জন্য প্রকল্প অনুসন্ধান"
+  how-to-submit-a-contribution: "অবদান জমা দেয়ার পদ্ধতি"
+  what-happens-after-you-submit-a-contribution: "অবদান জমা দেয়ার পরের ধাপগুলো"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
