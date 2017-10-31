@@ -1,6 +1,6 @@
 ---
 locale: bn-BD
-title: Leadership and Governance
+title: নেতৃত্ব এবং নিয়ন্ত্রণ
 description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership
 toc:
