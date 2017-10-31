@@ -1,6 +1,6 @@
 ---
-locale: en-US
-title: Building Welcoming Communities
+locale: bn-BD
+title: সম্প্রদায় তৈরী
 description: Building a community that encourages people to use, contribute to, and evangelize your project.
 class: building
 toc:

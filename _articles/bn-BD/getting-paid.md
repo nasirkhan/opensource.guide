@@ -1,6 +1,6 @@
 ---
-locale: en-US
-title: Getting Paid for Open Source Work
+locale: bn-BD
+title: মুক্ত সোর্স প্রকল্প থেকে আয়
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
 toc:

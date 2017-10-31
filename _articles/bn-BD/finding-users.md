@@ -1,6 +1,6 @@
 ---
-locale: en-US
-title: Finding Users for Your Project
+locale: bn-BD
+title: আপনার প্রকল্পের ব্যবহারকারীরা
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
 toc:

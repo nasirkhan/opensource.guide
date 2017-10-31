@@ -1,6 +1,6 @@
 ---
-locale: en-US
-title: Your Code of Conduct
+locale: bn-BD
+title: আপনার আচার আচরণ
 description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
 toc:

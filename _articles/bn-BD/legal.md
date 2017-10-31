@@ -1,6 +1,6 @@
 ---
-locale: en-US
-title: The Legal Side of Open Source
+locale: bn-BD
+title: মুক্ত সোর্সের আইনি দিক
 description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
 class: legal
 toc:
