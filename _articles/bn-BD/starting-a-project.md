@@ -1,14 +1,14 @@
 ---
 locale: bn-BD
 title: নতুন মুক্ত সোর্স প্রকল্প শুরু করা
-description: Learn more about the world of open source and get ready to launch your own project.
+description: মুক্ত সোর্সের জগৎ সম্পর্কে জানুন এবং আপনার নিজের প্রকল্প আরম্ভ করার প্রস্তুতি নিন।
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "মুক্ত সোর্স কি এবং কেনো"
+  should-i-launch-my-own-open-source-project: "আমার কি মু্ক্ত সোর্স প্রকল্প আরম্ভ করা উচিত?"
+  launching-your-own-open-source-project: "মু্ক্ত সোর্স প্রকল্প আরম্ভ করা"
+  naming-and-branding-your-project: "আপনার প্রকল্পের নামকরণ ও ব্র্যান্ডিং"
+  your-pre-launch-checklist: "প্রকাশের আগের চেকলিস্ট"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,11 +16,11 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## মুক্ত সোর্স কি এবং কেনো
 
 So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
-### What does "open source" mean?
+### "মুক্ত সোর্স" অর্থ কি?
 
 When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
@@ -35,7 +35,7 @@ To understand how it works, imagine your friend is having a potluck, and you bri
 
 By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
 
-### Why do people open source their work?
+### অন্যরা কেনো তার প্রকল্পগুলো মুক্ত সোর্স করে থাকে?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -55,7 +55,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
 
 Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
-### Does open source mean "free of charge"?
+### মুক্ত সোর্স মানে কি "বিনামূল্য বা ফ্রি"?
 
 One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
 
@@ -63,7 +63,7 @@ Because [an open source license requires](https://opensource.org/osd-annotated) 
 
 As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
-## Should I launch my own open source project?
+## আমার কি মু্ক্ত সোর্স প্রকল্প আরম্ভ করা উচিত?
 
 The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
 
@@ -73,7 +73,7 @@ Open source work is like any other creative activity, whether it's writing or pa
 
 If you're not yet convinced, take a moment to think about what your goals might be.
 
-### Setting your goals
+### লক্ষ্য নির্ধারণ করা
 
 Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
 
