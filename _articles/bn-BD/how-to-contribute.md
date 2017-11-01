@@ -17,25 +17,25 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## মুক্ত সোর্সে কেনো অবদান রাখবেন?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  \[freenode\]-এ কাজ করার সময় আমি বেশ কিছু বিষয়ে দক্ষতা অর্জন করি যেগুলো পরবর্তীতে বিশ্ববিদ্যালয়ে আমার শিক্ষা ক্ষেত্রে এবং কর্মজীবনে বিশেষভাবে সহয়ক ছিলো। আমি মনে করি মুক্ত সোর্সে কাজ করার মাধ্যমে আমি প্রকল্পটি যেভাবে এগিয়ে গিয়েছে, একইভাবে আমার নিজেরও উন্নয়ন হয়েছে!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["যেকারণে আমি মুক্ত সোর্স সফটওয়্যারে অবদান রাখতে ভালোবাসি"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+মুক্ত সোর্সে অবদান রাখার মাধ্যমে আপনি কল্পনা করতে পারেন এমন সকল বিষয়ে দক্ষতা অর্জন, অন্যকে শেখানো এবং অভিজ্ঞতা অর্জন করা সম্ভব।
 
-Why do people contribute to open source? Plenty of reasons!
+মানুষ কেনো মুক্ত সোর্স প্রকল্পে অবদান রাখে? অসংখ্য কারণ রয়েছে!
 
-### Improve existing skills
+### দক্ষতা অর্জন
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+কোডিং, ব্যবহারকারী ইন্টারফেস ডিজাইন, গ্রাফিক্স ডিজাইন অথবা ব্যবস্থাপনা যে ধরনের কাজের কথাই ভাবুন না কেনো, মুক্ত সোর্স প্রকল্পগুলোতে আপনার পছন্দের কাজটি ঠিকই খুঁজে পাওয়া যাবে।
 
-### Meet people who are interested in similar things
+### একই ধরনের কাজে আগ্রহীদের সাথে পরিচিত হওয়া
 
 Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
