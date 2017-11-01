@@ -37,7 +37,7 @@ related:
 
 ### একই ধরনের কাজে আগ্রহীদের সাথে পরিচিত হওয়া
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+মুক্ত সোর্স প্রকল্পের অবদানারীদের অভ্যর্থনা ও বন্ধুত্বপূর্ণ ব্যবহারের কারণে প্রতি বছরই অবদানকারীর সংখ্যা বাড়ছে। অনেকেই আছেন যারা মু্ক্ত সোর্স প্রকল্পে কাজ করার মাধ্যমে নতুন বন্ধু পেয়েছেন। কখনো হয়তো কোনো সম্মেলনে অথবা ইমেইল, মেসেঞ্জারে চ্যাট করার সময় তাদের সাথে পরিচয় হয় এবং কাজ করার মাধ্যমে তাদের বন্ধুত্ব আরও দৃঢ হয়। 
 
 ### Find mentors and teach others
 
