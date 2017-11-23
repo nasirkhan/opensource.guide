@@ -39,9 +39,9 @@ related:
 
 মুক্ত সোর্স প্রকল্পের অবদানারীদের অভ্যর্থনা ও বন্ধুত্বপূর্ণ ব্যবহারের কারণে প্রতি বছরই অবদানকারীর সংখ্যা বাড়ছে। অনেকেই আছেন যারা মু্ক্ত সোর্স প্রকল্পে কাজ করার মাধ্যমে নতুন বন্ধু পেয়েছেন। কখনো হয়তো কোনো সম্মেলনে অথবা ইমেইল, মেসেঞ্জারে চ্যাট করার সময় তাদের সাথে পরিচয় হয় এবং কাজ করার মাধ্যমে তাদের বন্ধুত্ব আরও দৃঢ হয়। 
 
-### Find mentors and teach others
+### মেন্টর খুঁজুন এবং অন্যদের শেখান
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+অন্যদের সাথে একই প্রকল্পে কাজ করার জন্য আপনার কাজ করার পদ্ধতিটি অন্য সবাইকে জানাতে হয়, পাশাপাশি অন্যদের থেকেও সাহায্য নিতে হয়। পরস্পরের মধ্যে যোগাযোগের এই পদ্ধতিতে অংশগ্রহনকারী সকলেই উপকৃত হয়। 
 
 ### Build public artifacts that help you grow a reputation (and a career)
 
