@@ -43,6 +43,10 @@ related:
 
 অন্যদের সাথে একই প্রকল্পে কাজ করার জন্য আপনার কাজ করার পদ্ধতিটি অন্য সবাইকে জানাতে হয়, পাশাপাশি অন্যদের থেকেও সাহায্য নিতে হয়। পরস্পরের মধ্যে যোগাযোগের এই পদ্ধতিতে অংশগ্রহনকারী সকলেই উপকৃত হয়। 
 
+### উন্মুক্ত নিদর্শন তৈরি করুন যা আপনাকে খ্যাতি অর্জনে  সহায়ক হবে (এবং কর্মজীবন)
+
+সংজ্ঞা অনুসারে, আপনার সকল মুক্ত সোর্স/ ওপেন সোর্স প্রকল্প উন্মুক্ত ও সর্বজনীন, অর্থাৎ যে কোনো স্থানে আপনি এগুলো নমুনা হিসাবে উপস্থাপন করতে পরবেন। 
+
 ### Build public artifacts that help you grow a reputation (and a career)
 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
